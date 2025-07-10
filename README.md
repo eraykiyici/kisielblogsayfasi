@@ -19,5 +19,5 @@ Bu proje, HTML kullanılarak hazırlanmış basit bir blog sayfasıdır. Proje, 
 - Her blog yazısına en az bir görsel (`<img>`) eklendi ve her biri için `alt` açıklamaları yazıldı.
 - Sayfa içerisinde toplamda iki farklı bağlantı (`<a>`) kullanıldı:  
   - [Patika.dev Bootcamp Sayfası](https://www.patika.dev/patikaplus/patika-front-end-bootcamp)  
-  - [GitHub Reposum](https://github.com/eraykiyici?tab=repositories)
+  - [GitHub Reposu](https://github.com/eraykiyici?tab=repositories)
 
